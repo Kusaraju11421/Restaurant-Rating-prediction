@@ -72,7 +72,7 @@ def set_background(image_path):
     st.markdown(background, unsafe_allow_html=True)
 
 #reading background image
-set_background(r"C:\\Users\\kusar\\OneDrive\\Pictures\\abstract-colorful-7-4k.jpg")
+set_background(r"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LT5V7e4xu8Ieo5SPJ_WChcjIRbz8vdC4qOkG6FSEHKJOTQS5RJwybVNwIVSUENf6x1yTuMqMtN2K1iEzlfToy-R4N9WZauhWGSSXN7iGu9xnh4mhp6jE7VKVc1Q5Am3XN4yr02CXazrJ/w0/abstract-colorful-7-4k.jpg")
 
 #loading models
 
