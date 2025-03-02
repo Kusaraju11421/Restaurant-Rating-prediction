@@ -1,6 +1,5 @@
 numpy
-pandas
-scikit_learn
+sklearn.preprocessing
 streamlit
 joblib
 base64
